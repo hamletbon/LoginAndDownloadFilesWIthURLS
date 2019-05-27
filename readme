@@ -1,0 +1,10 @@
+This is a simple script for downloading files with known URLs. 
+Some website may not be as user friendly when it comes to downloading files, you may need to login and do multiple clicks.
+
+By using html extraction such as http://www.convertcsv.com/url-extractor.htm , all download paths can be extracted.
+
+These urls can be saved on a separate file.
+
+After that all we needed is just to identify the url of the login page, and the username and password variable for a post login.
+
+The files can then be grapped by the script.
